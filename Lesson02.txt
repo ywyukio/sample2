@@ -1,0 +1,7 @@
+Javascript
+php
+python
+Perl
+JQery
+Ruby
+COBOL
